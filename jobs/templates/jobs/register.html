@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registor</title>
+</head>
+<body>
+    <h1>Create Account</h1>
+    <from method="POST">
+        {%csrf_token%}
+        {{form.as_p}}
+        <button type="submiy">Register</button>
+    </from>
+    <a href=""/login/">Already have account Login here</a>"
+</body>
+</html>

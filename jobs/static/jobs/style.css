@@ -1,0 +1,9 @@
+body{
+    font-family: Arial;
+    margin:40px;
+    background-color: #f5f5f5;
+
+}
+h1{color:black;}
+h2{color:gray}
+hr{border : 1px solid #ddd; }
