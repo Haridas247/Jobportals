@@ -3,6 +3,9 @@ from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth import login
 from.models import Job
 from.forms import JobForm
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+from .serializers import JobSerializer
 
 # Create your views here.
 
@@ -34,3 +37,9 @@ def register (request):
     else:
         form = UserCreationForm()
     return render(request, 'jobs/register.html', {'form': form})
+
+@api_view(['GET'])
+def job_api(request):
+    jobs = Job.objects.all()
+    serializer = JobSerializer(jobs, many=True)
+    return Response(serializer.data)
