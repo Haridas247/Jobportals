@@ -7,10 +7,10 @@
 </head>
 <body>
     <h1> Add New Job</h1>
-    <form method=""POST">
+    <form method="POST">
     {% csrf_token %}
     {{ form.as_p}}
-    <button type=""submit">Save Job</button>
+    <button type="submit">Save Job</button>
 </form>
 <a href="/jobs/">Back to Jobs</a>
 </body>

@@ -34,6 +34,6 @@ urlpatterns = [
     
     
    path('api/jobs/', views.job_api, name='job_api'),
-    path('api/jobs/<int:pk>/', views.job_detail_api, name='job_detail_api'),
+   path('api/jobs/<int:pk>/', views.job_detail_api, name='job_detail_api'),
 ]
 

@@ -7,6 +7,7 @@ from .forms import JobForm
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .serializers import JobSerializer
+from .tasks import send_job_notification
 
 def job_list(request):
     jobs = Job.objects.all()
@@ -17,12 +18,14 @@ def add_job(request):
     if request.method == 'POST':
         form = JobForm(request.POST)
         if form.is_valid():
-            Job.objects.create(
+            job = Job.objects.create(
                 title=form.cleaned_data['title'],
                 company=form.cleaned_data['company'],
                 location=form.cleaned_data['location'],
                 description=form.cleaned_data['description'],
             )
+            #Run in background!
+            send_job_notification.delay(job.title, job.company)
             return redirect('/jobs/')
     else:
         form = JobForm()
