@@ -17,6 +17,11 @@ class JobListView(ListView):
     template_name = 'jobs/job_list.html'
     context_object_name = 'jobs'
 
+    def get_queryset(self):
+
+     #single query  return Job.objects.by_company('ZOHO')   
+     return Job.objects.by_location('Mumbai').by_company('Microsoft')  
+      
 class AddJobView(LoginRequiredMixin, View):
 
     def get(self, request):
