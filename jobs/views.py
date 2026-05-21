@@ -18,10 +18,12 @@ class JobListView(ListView):
     context_object_name = 'jobs'
 
     def get_queryset(self):
-
-     #single query  return Job.objects.by_company('ZOHO')   
-     return Job.objects.by_location('Mumbai').by_company('Microsoft')  
-      
+        query = self.request.GET.get('q')  
+        # get search text from URL
+        
+        if query:
+            return Job.objects.filter(title__icontains=query)  # filter by title
+        return Job.objects.all() 
 class AddJobView(LoginRequiredMixin, View):
 
     def get(self, request):

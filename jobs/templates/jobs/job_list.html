@@ -1,6 +1,5 @@
 {% load static %}
 <!DOCTYPE html>
-
 <html>
     <head>
         <title>Job List</title>
@@ -12,12 +11,27 @@
             {% csrf_token %}
             <button type="submit">Logout</button>
         </form>
-    {% for job in jobs %}
+         <form method="GET" action="/jobs/">
+            <input 
+                type="text" 
+                name="q" 
+                placeholder="Search jobs" 
+                value="{{ request.GET.q }}"
+            >
+            <button type="submit">Search</button>
+        </form>
+        {% if request.GET.q %}
+            <p>Showing results for: <strong>{{ request.GET.q }}</strong></p>
+        {% endif %}
+
+        {% for job in jobs %}
         <h2>{{job.title}}</h2>
         <p>Company: {{ job.company }}</p>
         <p>Location: {{job.location }}</p>
         <p>{{ job.description }}</p>
         <hr>
+        {% empty%}
+        <p> No jobs found for "{{request.GET.q}}" </p>
         {% endfor %}
     </body>
 </html>
