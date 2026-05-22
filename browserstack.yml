@@ -1,0 +1,10 @@
+userName: haridas_6Km9zg
+accessKey: 2pg3Gk8wpiEFVRxwLsqK
+
+browsers:
+  - browser: chrome
+    os: OS X Catalina
+    versions:
+      - latest
+
+testSuite: tests/

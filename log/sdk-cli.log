@@ -1,0 +1,4861 @@
+2026-05-22T06:00:06.074Z CLI info [main]    Server listening on port: 5400
+2026-05-22T06:00:06.240Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","browsers":[{"browser":"chrome","os":"OS X Catalina","versions":["latest"]}],"testSuite":"tests/"}
+2026-05-22T06:00:06.554Z CLI info    Should start debug utility: undefined
+2026-05-22T06:00:06.579Z CLI info [testhub:module]   [85f9a9dd-45ee-4345-9120-958c4989045d]  Starting testhub from 35344:0
+2026-05-22T06:00:06.586Z CLI info   [85f9a9dd-45ee-4345-9120-958c4989045d]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-22T06:00:06.593Z CLI info   [85f9a9dd-45ee-4345-9120-958c4989045d]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-22T06:00:07.567Z CLI info   [85f9a9dd-45ee-4345-9120-958c4989045d]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-22T06:00:07.568Z CLI info   [85f9a9dd-45ee-4345-9120-958c4989045d]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-22T06:00:07.570Z CLI info   [85f9a9dd-45ee-4345-9120-958c4989045d]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-22T06:00:08.060Z CLI info [testhub:module]   [85f9a9dd-45ee-4345-9120-958c4989045d]  startBuild: response=khvkznzntflxi4flbytyywv6kxrmkbb7zqtjcg0g
+2026-05-22T06:00:08.072Z CLI info  [khvkznzntflxi4flbytyywv6kxrmkbb7zqtjcg0g]  [85f9a9dd-45ee-4345-9120-958c4989045d]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:03:26.630Z CLI info [main]  [khvkznzntflxi4flbytyywv6kxrmkbb7zqtjcg0g]  [85f9a9dd-45ee-4345-9120-958c4989045d]  Received graceful signal termination (SIGINT), performing cleanup
+2026-05-22T06:04:17.956Z CLI info [main]    Server listening on port: 5400
+2026-05-22T06:04:18.135Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","browsers":[{"browser":"chrome","os":"OS X Catalina","versions":["latest"]}],"testSuite":"tests/"}
+2026-05-22T06:04:18.174Z CLI info    Should start debug utility: undefined
+2026-05-22T06:04:18.185Z CLI info [testhub:module]   [cc4a9843-26c7-4fc9-84bd-e81e1d8dc017]  Starting testhub from 19296:0
+2026-05-22T06:04:18.187Z CLI info   [cc4a9843-26c7-4fc9-84bd-e81e1d8dc017]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-22T06:04:18.192Z CLI info   [cc4a9843-26c7-4fc9-84bd-e81e1d8dc017]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-22T06:04:18.646Z CLI info   [cc4a9843-26c7-4fc9-84bd-e81e1d8dc017]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-22T06:04:18.646Z CLI info   [cc4a9843-26c7-4fc9-84bd-e81e1d8dc017]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-22T06:04:18.647Z CLI info   [cc4a9843-26c7-4fc9-84bd-e81e1d8dc017]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-22T06:04:19.566Z CLI info [testhub:module]   [cc4a9843-26c7-4fc9-84bd-e81e1d8dc017]  startBuild: response=ka753htsb60clkwoxfbcaf95ahswkpwraggize3d
+2026-05-22T06:04:19.574Z CLI info  [ka753htsb60clkwoxfbcaf95ahswkpwraggize3d]  [cc4a9843-26c7-4fc9-84bd-e81e1d8dc017]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:05:43.158Z CLI info [main]  [ka753htsb60clkwoxfbcaf95ahswkpwraggize3d]  [cc4a9843-26c7-4fc9-84bd-e81e1d8dc017]  Received graceful signal termination (SIGINT), performing cleanup
+2026-05-22T06:10:39.829Z CLI info [main]    Server listening on port: 5400
+2026-05-22T06:10:39.891Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","browsers":[{"browser":"chrome","os":"OS X Catalina","versions":["latest"]}],"testSuite":"tests/"}
+2026-05-22T06:10:39.904Z CLI info    Should start debug utility: undefined
+2026-05-22T06:10:39.907Z CLI info [testhub:module]   [7d818ae5-c024-4ad7-9f6b-3828bcab5081]  Starting testhub from 10552:0
+2026-05-22T06:10:39.908Z CLI info   [7d818ae5-c024-4ad7-9f6b-3828bcab5081]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-22T06:10:39.909Z CLI info   [7d818ae5-c024-4ad7-9f6b-3828bcab5081]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-22T06:10:40.335Z CLI info   [7d818ae5-c024-4ad7-9f6b-3828bcab5081]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-22T06:10:40.337Z CLI info   [7d818ae5-c024-4ad7-9f6b-3828bcab5081]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-22T06:10:40.338Z CLI info   [7d818ae5-c024-4ad7-9f6b-3828bcab5081]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-22T06:10:41.137Z CLI info [testhub:module]   [7d818ae5-c024-4ad7-9f6b-3828bcab5081]  startBuild: response=hsglxz9j4yym5mvdsdlyjp8ppb3ciy4fwg1ocax5
+2026-05-22T06:10:41.140Z CLI info  [hsglxz9j4yym5mvdsdlyjp8ppb3ciy4fwg1ocax5]  [7d818ae5-c024-4ad7-9f6b-3828bcab5081]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:16:55.772Z CLI info [main]  [hsglxz9j4yym5mvdsdlyjp8ppb3ciy4fwg1ocax5]  [7d818ae5-c024-4ad7-9f6b-3828bcab5081]  Received graceful signal termination (SIGINT), performing cleanup
+2026-05-22T06:20:29.755Z CLI info [main]    Server listening on port: 5400
+2026-05-22T06:20:29.906Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","browsers":[{"browser":"chrome","os":"OS X Catalina","versions":["latest"]}],"testSuite":"tests/"}
+2026-05-22T06:20:29.955Z CLI info    Should start debug utility: undefined
+2026-05-22T06:20:29.963Z CLI info [testhub:module]   [f1887699-28c7-47e3-9eca-a974fb140d35]  Starting testhub from 36120:0
+2026-05-22T06:20:29.966Z CLI info   [f1887699-28c7-47e3-9eca-a974fb140d35]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-22T06:20:29.971Z CLI info   [f1887699-28c7-47e3-9eca-a974fb140d35]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-22T06:20:30.444Z CLI info   [f1887699-28c7-47e3-9eca-a974fb140d35]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-22T06:20:30.445Z CLI info   [f1887699-28c7-47e3-9eca-a974fb140d35]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-22T06:20:30.449Z CLI info   [f1887699-28c7-47e3-9eca-a974fb140d35]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-22T06:20:31.167Z CLI info [testhub:module]   [f1887699-28c7-47e3-9eca-a974fb140d35]  startBuild: response=hybwwcxihdi813vtnxensbzar8gnelwbiixcgj9s
+2026-05-22T06:20:31.177Z CLI info  [hybwwcxihdi813vtnxensbzar8gnelwbiixcgj9s]  [f1887699-28c7-47e3-9eca-a974fb140d35]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:21:50.426Z CLI info [main]  [hybwwcxihdi813vtnxensbzar8gnelwbiixcgj9s]  [f1887699-28c7-47e3-9eca-a974fb140d35]  Received graceful signal termination (SIGINT), performing cleanup
+2026-05-22T06:24:04.126Z CLI info [main]    Server listening on port: 5400
+2026-05-22T06:24:04.280Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","browsers":[{"browser":"chrome","os":"OS X Catalina","versions":["latest"]}],"testSuite":"tests/"}
+2026-05-22T06:24:04.297Z CLI info    Should start debug utility: undefined
+2026-05-22T06:24:04.303Z CLI info [testhub:module]   [f0a24942-e10c-4e88-86dd-eeb5ca560a0d]  Starting testhub from 36640:0
+2026-05-22T06:24:04.304Z CLI info   [f0a24942-e10c-4e88-86dd-eeb5ca560a0d]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-22T06:24:04.306Z CLI info   [f0a24942-e10c-4e88-86dd-eeb5ca560a0d]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-22T06:24:04.888Z CLI info   [f0a24942-e10c-4e88-86dd-eeb5ca560a0d]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-22T06:24:04.890Z CLI info   [f0a24942-e10c-4e88-86dd-eeb5ca560a0d]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-22T06:24:04.892Z CLI info   [f0a24942-e10c-4e88-86dd-eeb5ca560a0d]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-22T06:24:05.420Z CLI info [testhub:module]   [f0a24942-e10c-4e88-86dd-eeb5ca560a0d]  startBuild: response=xhuohy4iiw7j10opeylzarqc8gzgvruebr3toipr
+2026-05-22T06:24:05.433Z CLI info  [xhuohy4iiw7j10opeylzarqc8gzgvruebr3toipr]  [f0a24942-e10c-4e88-86dd-eeb5ca560a0d]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:25:33.290Z CLI info [main]  [xhuohy4iiw7j10opeylzarqc8gzgvruebr3toipr]  [f0a24942-e10c-4e88-86dd-eeb5ca560a0d]  Received graceful signal termination (SIGINT), performing cleanup
+2026-05-22T06:26:01.304Z CLI info [main]    Server listening on port: 5400
+2026-05-22T06:26:01.516Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","browsers":[{"browser":"chrome","os":"OS X Catalina","versions":["latest"]}],"testSuite":"tests/"}
+2026-05-22T06:26:01.590Z CLI info    Should start debug utility: undefined
+2026-05-22T06:26:01.610Z CLI info [testhub:module]   [c1c20591-0283-4836-8b90-e66594c7429b]  Starting testhub from 3812:0
+2026-05-22T06:26:01.615Z CLI info   [c1c20591-0283-4836-8b90-e66594c7429b]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-22T06:26:01.625Z CLI info   [c1c20591-0283-4836-8b90-e66594c7429b]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-22T06:26:02.326Z CLI info   [c1c20591-0283-4836-8b90-e66594c7429b]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-22T06:26:02.331Z CLI info   [c1c20591-0283-4836-8b90-e66594c7429b]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-22T06:26:02.337Z CLI info   [c1c20591-0283-4836-8b90-e66594c7429b]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-22T06:26:03.252Z CLI info [testhub:module]   [c1c20591-0283-4836-8b90-e66594c7429b]  startBuild: response=7ef3oqhdbpxe7ollgh5gg3kn6mszskxhw0pzh7xq
+2026-05-22T06:26:03.259Z CLI info  [7ef3oqhdbpxe7ollgh5gg3kn6mszskxhw0pzh7xq]  [c1c20591-0283-4836-8b90-e66594c7429b]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:27:32.404Z CLI info [main]  [7ef3oqhdbpxe7ollgh5gg3kn6mszskxhw0pzh7xq]  [c1c20591-0283-4836-8b90-e66594c7429b]  Received graceful signal termination (SIGINT), performing cleanup
+2026-05-22T06:30:18.358Z CLI info [main]    Server listening on port: 5400
+2026-05-22T06:30:18.455Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","browsers":[{"browser":"chrome","os":"OS X Catalina","versions":["latest"]}],"testSuite":"tests/"}
+2026-05-22T06:30:18.466Z CLI info    Should start debug utility: undefined
+2026-05-22T06:30:18.469Z CLI info [testhub:module]   [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Starting testhub from 23004:0
+2026-05-22T06:30:18.470Z CLI info   [027dd7e6-e0a4-422e-8086-083fa13d85ab]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-22T06:30:18.471Z CLI info   [027dd7e6-e0a4-422e-8086-083fa13d85ab]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-22T06:30:19.041Z CLI info   [027dd7e6-e0a4-422e-8086-083fa13d85ab]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-22T06:30:19.044Z CLI info   [027dd7e6-e0a4-422e-8086-083fa13d85ab]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-22T06:30:19.047Z CLI info   [027dd7e6-e0a4-422e-8086-083fa13d85ab]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-22T06:30:20.160Z CLI info [testhub:module]   [027dd7e6-e0a4-422e-8086-083fa13d85ab]  startBuild: response=tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz
+2026-05-22T06:30:20.165Z CLI info  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:30:29.932Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'a5ff673f-6a67-4ae7-a7e1-22876dbf59be',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Expect a title "to contain" a substring.\n' +
+        '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:30:29.904Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:29.941Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '406f2df8-1f22-4964-aa42-48a51748072d',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Expect a title "to contain" a substring.\n' +
+        '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:30:29.914Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:29.971Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '644c2dc0-92a3-4f45-a6f7-4dd7e8a5acac',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Expect a title "to contain" a substring.\n' +
+        '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:30:29.953Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:30.009Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '7760d210-edee-4bdb-9138-e1b0b1eb48f3',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Click the get started link.\n' +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '\n' +
+        '  // Expects page to have a heading with the name of Installation.\n' +
+        "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+        "    name: 'Installation'\n" +
+        '  })).toBeVisible();\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:30:29.994Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:30.019Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '53a8b469-7790-4819-b9c6-18d983276496',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Click the get started link.\n' +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '\n' +
+        '  // Expects page to have a heading with the name of Installation.\n' +
+        "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+        "    name: 'Installation'\n" +
+        '  })).toBeVisible();\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:30:29.997Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:30.030Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '253c3e4e-cfe6-4a8f-aa8b-178ca4e80fb4',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Click the get started link.\n' +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '\n' +
+        '  // Expects page to have a heading with the name of Installation.\n' +
+        "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+        "    name: 'Installation'\n" +
+        '  })).toBeVisible();\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:30:30.011Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:30.121Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  onTestSessionEvent: empty platform for driver=475783832e51ee56516ea0c6a435bec411b981c41ebf53472e652fad34b6f9f5 platform={}
+2026-05-22T06:30:30.134Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  onTestSessionEvent: empty platform for driver=6e40667112d71a0f22023456717988e64392d669d86c24ae307ce5ea27bb7cfa platform={}
+2026-05-22T06:30:30.144Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'a5ff673f-6a67-4ae7-a7e1-22876dbf59be',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Expect a title "to contain" a substring.\n' +
+        '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 132,
+    started_at: '2026-05-22T06:30:29.904Z',
+    finished_at: '2026-05-22T06:30:30.036Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:30.169Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Processing batch event [
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'a5ff673f-6a67-4ae7-a7e1-22876dbf59be',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Expect a title "to contain" a substring.\n' +
+          '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:30:29.904Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '406f2df8-1f22-4964-aa42-48a51748072d',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Expect a title "to contain" a substring.\n' +
+          '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:30:29.914Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '644c2dc0-92a3-4f45-a6f7-4dd7e8a5acac',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Expect a title "to contain" a substring.\n' +
+          '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:30:29.953Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '7760d210-edee-4bdb-9138-e1b0b1eb48f3',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Click the get started link.\n' +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '\n' +
+          '  // Expects page to have a heading with the name of Installation.\n' +
+          "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+          "    name: 'Installation'\n" +
+          '  })).toBeVisible();\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:30:29.994Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '53a8b469-7790-4819-b9c6-18d983276496',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Click the get started link.\n' +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '\n' +
+          '  // Expects page to have a heading with the name of Installation.\n' +
+          "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+          "    name: 'Installation'\n" +
+          '  })).toBeVisible();\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:30:29.997Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '253c3e4e-cfe6-4a8f-aa8b-178ca4e80fb4',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Click the get started link.\n' +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '\n' +
+          '  // Expects page to have a heading with the name of Installation.\n' +
+          "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+          "    name: 'Installation'\n" +
+          '  })).toBeVisible();\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:30:30.011Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'a5ff673f-6a67-4ae7-a7e1-22876dbf59be',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Expect a title "to contain" a substring.\n' +
+          '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 132,
+      started_at: '2026-05-22T06:30:29.904Z',
+      finished_at: '2026-05-22T06:30:30.036Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\chromium-1091\\chrome-win\\chrome.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\chromium-1091\\chrome-win\\chrome.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  }
+] to 23004:0
+2026-05-22T06:30:30.170Z CLI info  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:30:30.176Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '406f2df8-1f22-4964-aa42-48a51748072d',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Expect a title "to contain" a substring.\n' +
+        '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 131,
+    started_at: '2026-05-22T06:30:29.914Z',
+    finished_at: '2026-05-22T06:30:30.045Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:30.184Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  onTestSessionEvent: empty platform for driver=60347d738193b18935a4d5961ac0963edaba404bda5fcda9c157caa60552b79a platform={}
+2026-05-22T06:30:30.232Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  onTestSessionEvent: empty platform for driver=0040f77884022c1d792910aac692e83957596557dea4894c61a9901afaa2612c platform={}
+2026-05-22T06:30:30.244Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  onTestSessionEvent: empty platform for driver=d84d46f6db21236dbdbba43f6404a86f94a64f855e0c943b4fbc8b5ebdf7a1f1 platform={}
+2026-05-22T06:30:30.252Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  onTestSessionEvent: empty platform for driver=45c8843f70afc058a376d2cc7a7c00f649b6f808b13f54509cea04cfdf10ba02 platform={}
+2026-05-22T06:30:30.268Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '644c2dc0-92a3-4f45-a6f7-4dd7e8a5acac',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Expect a title "to contain" a substring.\n' +
+        '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 142,
+    started_at: '2026-05-22T06:30:29.953Z',
+    finished_at: '2026-05-22T06:30:30.095Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:30.305Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '7760d210-edee-4bdb-9138-e1b0b1eb48f3',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Click the get started link.\n' +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '\n' +
+        '  // Expects page to have a heading with the name of Installation.\n' +
+        "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+        "    name: 'Installation'\n" +
+        '  })).toBeVisible();\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 139,
+    started_at: '2026-05-22T06:30:29.994Z',
+    finished_at: '2026-05-22T06:30:30.133Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:30.307Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '53a8b469-7790-4819-b9c6-18d983276496',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Click the get started link.\n' +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '\n' +
+        '  // Expects page to have a heading with the name of Installation.\n' +
+        "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+        "    name: 'Installation'\n" +
+        '  })).toBeVisible();\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 152,
+    started_at: '2026-05-22T06:30:29.997Z',
+    finished_at: '2026-05-22T06:30:30.149Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:30.326Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '253c3e4e-cfe6-4a8f-aa8b-178ca4e80fb4',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '\n' +
+        '  // Click the get started link.\n' +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '\n' +
+        '  // Expects page to have a heading with the name of Installation.\n' +
+        "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+        "    name: 'Installation'\n" +
+        '  })).toBeVisible();\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 152,
+    started_at: '2026-05-22T06:30:30.011Z',
+    finished_at: '2026-05-22T06:30:30.163Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 23004:0
+2026-05-22T06:30:32.167Z CLI info [testhub:request-queue-handler]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Processing batch event [
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '406f2df8-1f22-4964-aa42-48a51748072d',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Expect a title "to contain" a substring.\n' +
+          '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 131,
+      started_at: '2026-05-22T06:30:29.914Z',
+      finished_at: '2026-05-22T06:30:30.045Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\webkit-1944\\Playwright.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\webkit-1944\\Playwright.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '644c2dc0-92a3-4f45-a6f7-4dd7e8a5acac',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Expect a title "to contain" a substring.\n' +
+          '  await (0, _test.expect)(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 142,
+      started_at: '2026-05-22T06:30:29.953Z',
+      finished_at: '2026-05-22T06:30:30.095Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\firefox-1429\\firefox\\firefox.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\firefox-1429\\firefox\\firefox.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '7760d210-edee-4bdb-9138-e1b0b1eb48f3',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Click the get started link.\n' +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '\n' +
+          '  // Expects page to have a heading with the name of Installation.\n' +
+          "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+          "    name: 'Installation'\n" +
+          '  })).toBeVisible();\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 139,
+      started_at: '2026-05-22T06:30:29.994Z',
+      finished_at: '2026-05-22T06:30:30.133Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\chromium-1091\\chrome-win\\chrome.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\chromium-1091\\chrome-win\\chrome.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '53a8b469-7790-4819-b9c6-18d983276496',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Click the get started link.\n' +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '\n' +
+          '  // Expects page to have a heading with the name of Installation.\n' +
+          "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+          "    name: 'Installation'\n" +
+          '  })).toBeVisible();\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 152,
+      started_at: '2026-05-22T06:30:29.997Z',
+      finished_at: '2026-05-22T06:30:30.149Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\firefox-1429\\firefox\\firefox.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\firefox-1429\\firefox\\firefox.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '253c3e4e-cfe6-4a8f-aa8b-178ca4e80fb4',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '\n' +
+          '  // Click the get started link.\n' +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '\n' +
+          '  // Expects page to have a heading with the name of Installation.\n' +
+          "  await (0, _test.expect)(page.getByRole('heading', {\n" +
+          "    name: 'Installation'\n" +
+          '  })).toBeVisible();\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 152,
+      started_at: '2026-05-22T06:30:30.011Z',
+      finished_at: '2026-05-22T06:30:30.163Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\webkit-1944\\Playwright.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\webkit-1944\\Playwright.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  }
+] to 23004:0
+2026-05-22T06:30:32.172Z CLI info  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:32:48.364Z CLI info [main]  [tgjtb3j6x1ekdq1d9rymkjssebfauwgtmj5ieynz]  [027dd7e6-e0a4-422e-8086-083fa13d85ab]  Received graceful signal termination (SIGINT), performing cleanup
+2026-05-22T06:36:10.157Z CLI info [main]    Server listening on port: 5400
+2026-05-22T06:36:10.203Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","browsers":[{"browser":"chrome","os":"OS X Catalina","versions":["latest"]}],"testSuite":"tests/"}
+2026-05-22T06:36:10.212Z CLI info    Should start debug utility: undefined
+2026-05-22T06:36:10.215Z CLI info [testhub:module]   [f19164af-ab7d-4559-b709-a2165640f900]  Starting testhub from 12260:0
+2026-05-22T06:36:10.216Z CLI info   [f19164af-ab7d-4559-b709-a2165640f900]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-22T06:36:10.217Z CLI info   [f19164af-ab7d-4559-b709-a2165640f900]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-22T06:36:10.678Z CLI info   [f19164af-ab7d-4559-b709-a2165640f900]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-22T06:36:10.680Z CLI info   [f19164af-ab7d-4559-b709-a2165640f900]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-22T06:36:10.682Z CLI info   [f19164af-ab7d-4559-b709-a2165640f900]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-22T06:36:11.199Z CLI info [testhub:module]   [f19164af-ab7d-4559-b709-a2165640f900]  startBuild: response=bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h
+2026-05-22T06:36:11.203Z CLI info  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:36:28.216Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '7dbf7962-af4b-4d4c-a4df-2738e39f49f2',
+    name: 'search box visible',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+        '}'
+    },
+    identifier: 'search box visible',
+    scope: 'search box visible',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:36:28.107Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js search box visible' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:28.600Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'a671e640-4faf-479a-910b-b9a25794fd44',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        '  await expect(page).toHaveTitle(/Google/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:36:28.278Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:28.611Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'd9d5b83b-d60b-4f98-918c-78f16e2d7fde',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        '  await expect(page).toHaveTitle(/Google/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:36:28.311Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:28.651Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '7b91c443-cb70-4fc9-b4d7-6885c3558327',
+    name: 'search box visible',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+        '}'
+    },
+    identifier: 'search box visible',
+    scope: 'search box visible',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:36:28.328Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js search box visible' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:28.878Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '368f8fda-0f52-4a23-b5b1-e74492bb221a',
+    name: 'search box visible',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+        '}'
+    },
+    identifier: 'search box visible',
+    scope: 'search box visible',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:36:28.376Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js search box visible' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:29.061Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  onTestSessionEvent: empty platform for driver=dff3da2dbc1973181fd3811a528b9171ff44feca6410abb0c4788f9728d1da66 platform={}
+2026-05-22T06:36:29.077Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'dbbeb9f0-9030-4879-81b9-ccf34bda6c5f',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        '  await expect(page).toHaveTitle(/Google/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:36:28.494Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:29.181Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  onTestSessionEvent: empty platform for driver=02b5f74208137a16735ff527bcbcbf1d26555c45ff6de9828e54e5e0ba945f9d platform={}
+2026-05-22T06:36:29.189Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  onTestSessionEvent: empty platform for driver=59e8b39de6cfc7e8a33df961259974a55cdf193d6a63096f8e2b6d2eb5ea5538 platform={}
+2026-05-22T06:36:29.206Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  onTestSessionEvent: empty platform for driver=b30d0659b5f732076fa80095886acc060231102bd9aba67140718756b6fabc76 platform={}
+2026-05-22T06:36:29.214Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Processing batch event [
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '7dbf7962-af4b-4d4c-a4df-2738e39f49f2',
+      name: 'search box visible',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+          '}'
+      },
+      identifier: 'search box visible',
+      scope: 'search box visible',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:36:28.107Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js search box visible' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'a671e640-4faf-479a-910b-b9a25794fd44',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          '  await expect(page).toHaveTitle(/Google/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:36:28.278Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'd9d5b83b-d60b-4f98-918c-78f16e2d7fde',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          '  await expect(page).toHaveTitle(/Google/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:36:28.311Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '7b91c443-cb70-4fc9-b4d7-6885c3558327',
+      name: 'search box visible',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+          '}'
+      },
+      identifier: 'search box visible',
+      scope: 'search box visible',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:36:28.328Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js search box visible' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '368f8fda-0f52-4a23-b5b1-e74492bb221a',
+      name: 'search box visible',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+          '}'
+      },
+      identifier: 'search box visible',
+      scope: 'search box visible',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:36:28.376Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js search box visible' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'dbbeb9f0-9030-4879-81b9-ccf34bda6c5f',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          '  await expect(page).toHaveTitle(/Google/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:36:28.494Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  }
+] to 12260:0
+2026-05-22T06:36:29.219Z CLI info  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:36:29.268Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  onTestSessionEvent: empty platform for driver=2c48b18f059e883ea1b9822e755dd5150e71dd285114f6ae463c8f66f252bcdd platform={}
+2026-05-22T06:36:29.366Z CLI warn [TEST REPORTING AND ANALYTICS:node]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  onTestSessionEvent: empty platform for driver=d15175313959e03c0f14ba6f4c7cff00ea034da297649f38779e1e560cea969e platform={}
+2026-05-22T06:36:29.412Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '7dbf7962-af4b-4d4c-a4df-2738e39f49f2',
+    name: 'search box visible',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+        '}'
+    },
+    identifier: 'search box visible',
+    scope: 'search box visible',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 569,
+    started_at: '2026-05-22T06:36:28.107Z',
+    finished_at: '2026-05-22T06:36:28.676Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js search box visible' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:29.574Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'a671e640-4faf-479a-910b-b9a25794fd44',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        '  await expect(page).toHaveTitle(/Google/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 544,
+    started_at: '2026-05-22T06:36:28.278Z',
+    finished_at: '2026-05-22T06:36:28.822Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:29.577Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'd9d5b83b-d60b-4f98-918c-78f16e2d7fde',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        '  await expect(page).toHaveTitle(/Google/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 511,
+    started_at: '2026-05-22T06:36:28.311Z',
+    finished_at: '2026-05-22T06:36:28.822Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:29.613Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '7b91c443-cb70-4fc9-b4d7-6885c3558327',
+    name: 'search box visible',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+        '}'
+    },
+    identifier: 'search box visible',
+    scope: 'search box visible',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 546,
+    started_at: '2026-05-22T06:36:28.328Z',
+    finished_at: '2026-05-22T06:36:28.874Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js search box visible' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:29.668Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '368f8fda-0f52-4a23-b5b1-e74492bb221a',
+    name: 'search box visible',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+        '}'
+    },
+    identifier: 'search box visible',
+    scope: 'search box visible',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 603,
+    started_at: '2026-05-22T06:36:28.376Z',
+    finished_at: '2026-05-22T06:36:28.979Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js search box visible' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:29.725Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'dbbeb9f0-9030-4879-81b9-ccf34bda6c5f',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://www.google.com');\n" +
+        '  await expect(page).toHaveTitle(/Google/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'failed',
+    duration_in_ms: 624,
+    started_at: '2026-05-22T06:36:28.494Z',
+    finished_at: '2026-05-22T06:36:29.118Z',
+    failure: [ [Object] ],
+    failure_type: 'UnhandledError',
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 12260:0
+2026-05-22T06:36:31.221Z CLI info [testhub:request-queue-handler]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Processing batch event [
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '7dbf7962-af4b-4d4c-a4df-2738e39f49f2',
+      name: 'search box visible',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+          '}'
+      },
+      identifier: 'search box visible',
+      scope: 'search box visible',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 569,
+      started_at: '2026-05-22T06:36:28.107Z',
+      finished_at: '2026-05-22T06:36:28.676Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\webkit-1944\\Playwright.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\webkit-1944\\Playwright.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js search box visible' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'a671e640-4faf-479a-910b-b9a25794fd44',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          '  await expect(page).toHaveTitle(/Google/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 544,
+      started_at: '2026-05-22T06:36:28.278Z',
+      finished_at: '2026-05-22T06:36:28.822Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\firefox-1429\\firefox\\firefox.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\firefox-1429\\firefox\\firefox.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'd9d5b83b-d60b-4f98-918c-78f16e2d7fde',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          '  await expect(page).toHaveTitle(/Google/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 511,
+      started_at: '2026-05-22T06:36:28.311Z',
+      finished_at: '2026-05-22T06:36:28.822Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\webkit-1944\\Playwright.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\webkit-1944\\Playwright.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '7b91c443-cb70-4fc9-b4d7-6885c3558327',
+      name: 'search box visible',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+          '}'
+      },
+      identifier: 'search box visible',
+      scope: 'search box visible',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 546,
+      started_at: '2026-05-22T06:36:28.328Z',
+      finished_at: '2026-05-22T06:36:28.874Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\firefox-1429\\firefox\\firefox.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\firefox-1429\\firefox\\firefox.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js search box visible' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '368f8fda-0f52-4a23-b5b1-e74492bb221a',
+      name: 'search box visible',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          `  await expect(page.locator('input[name="q"]')).toBeVisible();\n` +
+          '}'
+      },
+      identifier: 'search box visible',
+      scope: 'search box visible',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 603,
+      started_at: '2026-05-22T06:36:28.376Z',
+      finished_at: '2026-05-22T06:36:28.979Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\chromium-1091\\chrome-win\\chrome.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\chromium-1091\\chrome-win\\chrome.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js search box visible' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'dbbeb9f0-9030-4879-81b9-ccf34bda6c5f',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://www.google.com');\n" +
+          '  await expect(page).toHaveTitle(/Google/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'failed',
+      duration_in_ms: 624,
+      started_at: '2026-05-22T06:36:28.494Z',
+      finished_at: '2026-05-22T06:36:29.118Z',
+      failure: [
+        {
+          backtrace: [
+            "Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\chromium-1091\\chrome-win\\chrome.exe",
+            '╔═════════════════════════════════════════════════════════════════════════╗',
+            '║ Looks like Playwright Test or Playwright was just installed or updated. ║',
+            '║ Please run the following command to download new browsers:              ║',
+            '║                                                                         ║',
+            '║     npx playwright install                                              ║',
+            '║                                                                         ║',
+            '║ <3 Playwright Team                                                      ║',
+            '╚═════════════════════════════════════════════════════════════════════════╝',
+            '    at BrowserType._0x3ccb64 (C:\\Users\\harid\\jobportal\\node_modules\\browserstack-node-sdk\\src\\bin\\playwright\\mock-process.js:1:39052)'
+          ],
+          expanded: [
+            "message: Error: browserType.launch: Executable doesn't exist at C:\\Users\\harid\\AppData\\Local\\ms-playwright\\chromium-1091\\chrome-win\\chrome.exe\n" +
+              '╔═════════════════════════════════════════════════════════════════════════╗\n' +
+              '║ Looks like Playwright Test or Playwright was just installed or updated. ║\n' +
+              '║ Please run the following command to download new browsers:              ║\n' +
+              '║                                                                         ║\n' +
+              '║     npx playwright install                                              ║\n' +
+              '║                                                                         ║\n' +
+              '║ <3 Playwright Team                                                      ║\n' +
+              '╚═════════════════════════════════════════════════════════════════════════╝',
+            'location: undefined'
+          ]
+        }
+      ],
+      failure_type: 'UnhandledError',
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  }
+] to 12260:0
+2026-05-22T06:36:31.227Z CLI info  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:39:52.345Z CLI info [main]  [bmf4sskbslwtc9k46cwikualsr5ksgtoqeltmr3h]  [f19164af-ab7d-4559-b709-a2165640f900]  Received graceful signal termination (SIGINT), performing cleanup
+2026-05-22T06:52:16.710Z CLI info [main]    Server listening on port: 5400
+2026-05-22T06:52:16.746Z CLI info    Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","browsers":[{"browser":"chrome","os":"OS X Catalina","versions":["latest"]}],"testSuite":"tests/"}
+2026-05-22T06:52:16.758Z CLI info    Should start debug utility: undefined
+2026-05-22T06:52:16.761Z CLI info [testhub:module]   [051b440f-f917-46fb-bb63-77047a838708]  Starting testhub from 10972:0
+2026-05-22T06:52:16.762Z CLI info   [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2026-05-22T06:52:16.764Z CLI info   [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2026-05-22T06:52:17.337Z CLI info   [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2026-05-22T06:52:17.338Z CLI info   [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2026-05-22T06:52:17.340Z CLI info   [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making GET request to https://hub-apse.browserstack.com
+2026-05-22T06:52:18.060Z CLI info [testhub:module]   [051b440f-f917-46fb-bb63-77047a838708]  startBuild: response=myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja
+2026-05-22T06:52:18.063Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:52:29.754Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '  await expect(page).toHaveURL(/intro/);\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:52:29.723Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 10972:0
+2026-05-22T06:52:29.765Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '  await expect(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:52:29.733Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 10972:0
+2026-05-22T06:52:29.777Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '  await expect(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:52:29.754Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 10972:0
+2026-05-22T06:52:29.801Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '  await expect(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:52:29.775Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 10972:0
+2026-05-22T06:52:29.830Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '  await expect(page).toHaveURL(/intro/);\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:52:29.818Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 10972:0
+2026-05-22T06:52:29.861Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunStarted',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '  await expect(page).toHaveURL(/intro/);\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: undefined,
+    meta: {},
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'pending',
+    duration_in_ms: null,
+    started_at: '2026-05-22T06:52:29.850Z',
+    failure: undefined,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    }
+  }
+} to 10972:0
+2026-05-22T06:52:30.069Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Processing batch event [
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '  await expect(page).toHaveURL(/intro/);\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:52:29.723Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '  await expect(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:52:29.733Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '  await expect(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:52:29.754Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '  await expect(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:52:29.775Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '  await expect(page).toHaveURL(/intro/);\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:52:29.818Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  },
+  {
+    event_type: 'TestRunStarted',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '  await expect(page).toHaveURL(/intro/);\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: undefined,
+      meta: {},
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'pending',
+      duration_in_ms: null,
+      started_at: '2026-05-22T06:52:29.850Z',
+      failure: undefined,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      }
+    }
+  }
+] to 10972:0
+2026-05-22T06:52:30.070Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:52:36.195Z CLI info [sdk:service]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Driver initialized as primary driver: platformIndex=0
+2026-05-22T06:52:36.205Z CLI info [sdk:service]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Driver initialized as primary driver: platformIndex=3
+2026-05-22T06:52:36.210Z CLI info [sdk:service]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Driver initialized as primary driver: platformIndex=5
+2026-05-22T06:52:36.221Z CLI info [sdk:service]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Driver initialized as primary driver: platformIndex=1
+2026-05-22T06:52:36.235Z CLI info [sdk:service]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Driver initialized as primary driver: platformIndex=4
+2026-05-22T06:52:36.263Z CLI info [sdk:service]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Driver initialized as primary driver: platformIndex=2
+2026-05-22T06:52:37.843Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:37.849Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:38.081Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-chromium',
+            browser_version: '120.0.6099.28',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-chromium',
+          browser_version: '120.0.6099.28'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-chromium',
+            browser_version: '120.0.6099.28',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-chromium',
+          browser_version: '120.0.6099.28'
+        }
+      }
+    }
+  }
+] to 10972:0
+2026-05-22T06:52:38.082Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:52:38.250Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:38.252Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:38.529Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:38.533Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:39.996Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:40.023Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:40.071Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:38.648Z',
+      uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+      kind: 'TEST_STEP',
+      message: 'page.goto(https://playwright.dev/)',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 1215,
+      test_run_uuid: '4161a957-2959-4f23-8acb-dfbe034230c8'
+    },
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:39.867Z',
+      uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+      kind: 'TEST_STEP',
+      message: 'expect.toHaveTitle',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 87,
+      test_run_uuid: '4161a957-2959-4f23-8acb-dfbe034230c8'
+    }
+  ]
+} to 10972:0
+2026-05-22T06:52:40.084Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-webkit',
+            browser_version: '17.4',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-webkit',
+          browser_version: '17.4'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-webkit',
+            browser_version: '17.4',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-webkit',
+          browser_version: '17.4'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-firefox',
+            browser_version: '119.0',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-firefox',
+          browser_version: '119.0'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-firefox',
+            browser_version: '119.0',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-firefox',
+          browser_version: '119.0'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-firefox',
+            browser_version: '119.0',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-firefox',
+          browser_version: '119.0'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-firefox',
+            browser_version: '119.0',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-firefox',
+          browser_version: '119.0'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'LogCreated',
+    logs: [
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:38.648Z',
+        uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+        kind: 'TEST_STEP',
+        message: 'page.goto(https://playwright.dev/)',
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 1215,
+        test_run_uuid: '4161a957-2959-4f23-8acb-dfbe034230c8'
+      },
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:39.867Z',
+        uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+        kind: 'TEST_STEP',
+        message: 'expect.toHaveTitle',
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 87,
+        test_run_uuid: '4161a957-2959-4f23-8acb-dfbe034230c8'
+      }
+    ]
+  }
+] to 10972:0
+2026-05-22T06:52:40.085Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:52:40.116Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '  await expect(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'passed',
+    duration_in_ms: 3898,
+    started_at: '2026-05-22T06:52:29.733Z',
+    finished_at: '2026-05-22T06:52:33.631Z',
+    failure: null,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    },
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:40.236Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:40.278Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:40.320Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:38.642Z',
+      uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+      kind: 'TEST_STEP',
+      message: 'page.goto(https://playwright.dev/)',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 1090,
+      test_run_uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43'
+    },
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:39.735Z',
+      uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+      kind: 'TEST_STEP',
+      message: "locator.getByRole('link', { name: 'Get started' }).click",
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 443,
+      test_run_uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43'
+    },
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:40.181Z',
+      uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+      kind: 'TEST_STEP',
+      message: 'expect.toHaveURL',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 23,
+      test_run_uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43'
+    }
+  ]
+} to 10972:0
+2026-05-22T06:52:40.327Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '  await expect(page).toHaveURL(/intro/);\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'passed',
+    duration_in_ms: 4160,
+    started_at: '2026-05-22T06:52:29.850Z',
+    finished_at: '2026-05-22T06:52:34.010Z',
+    failure: null,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' firefox example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    },
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:40.381Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:40.408Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:40.440Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:38.294Z',
+      uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+      kind: 'TEST_STEP',
+      message: 'page.goto(https://playwright.dev/)',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 1544,
+      test_run_uuid: '2bf45605-e381-4695-9466-d95254d46c51'
+    },
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:39.841Z',
+      uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+      kind: 'TEST_STEP',
+      message: 'expect.toHaveTitle',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 515,
+      test_run_uuid: '2bf45605-e381-4695-9466-d95254d46c51'
+    }
+  ]
+} to 10972:0
+2026-05-22T06:52:40.445Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '  await expect(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'passed',
+    duration_in_ms: 4284,
+    started_at: '2026-05-22T06:52:29.754Z',
+    finished_at: '2026-05-22T06:52:34.038Z',
+    failure: null,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    },
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:41.591Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:41.622Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:41.654Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:38.294Z',
+      uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+      kind: 'TEST_STEP',
+      message: 'page.goto(https://playwright.dev/)',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 1911,
+      test_run_uuid: '67820a94-1b1b-430e-9983-d3394cf56950'
+    },
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:40.207Z',
+      uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+      kind: 'TEST_STEP',
+      message: "locator.getByRole('link', { name: 'Get started' }).click",
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 1145,
+      test_run_uuid: '67820a94-1b1b-430e-9983-d3394cf56950'
+    },
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:41.355Z',
+      uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+      kind: 'TEST_STEP',
+      message: 'expect.toHaveURL',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 206,
+      test_run_uuid: '67820a94-1b1b-430e-9983-d3394cf56950'
+    }
+  ]
+} to 10972:0
+2026-05-22T06:52:41.661Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '  await expect(page).toHaveURL(/intro/);\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'passed',
+    duration_in_ms: 5498,
+    started_at: '2026-05-22T06:52:29.818Z',
+    finished_at: '2026-05-22T06:52:35.316Z',
+    failure: null,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' webkit example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    },
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:42.088Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Processing batch event [
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '4161a957-2959-4f23-8acb-dfbe034230c8',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '  await expect(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'passed',
+      duration_in_ms: 3898,
+      started_at: '2026-05-22T06:52:29.733Z',
+      finished_at: '2026-05-22T06:52:33.631Z',
+      failure: null,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      },
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-firefox',
+            browser_version: '119.0',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-firefox',
+          browser_version: '119.0'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-firefox',
+            browser_version: '119.0',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-firefox',
+          browser_version: '119.0'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-firefox',
+            browser_version: '119.0',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-firefox',
+          browser_version: '119.0'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'LogCreated',
+    logs: [
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:38.642Z',
+        uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+        kind: 'TEST_STEP',
+        message: 'page.goto(https://playwright.dev/)',
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 1090,
+        test_run_uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43'
+      },
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:39.735Z',
+        uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+        kind: 'TEST_STEP',
+        message: "locator.getByRole('link', { name: 'Get started' }).click",
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 443,
+        test_run_uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43'
+      },
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:40.181Z',
+        uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+        kind: 'TEST_STEP',
+        message: 'expect.toHaveURL',
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 23,
+        test_run_uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43'
+      }
+    ]
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: 'aa125f09-c958-465d-9083-6d8b48b06b43',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '  await expect(page).toHaveURL(/intro/);\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'passed',
+      duration_in_ms: 4160,
+      started_at: '2026-05-22T06:52:29.850Z',
+      finished_at: '2026-05-22T06:52:34.010Z',
+      failure: null,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' firefox example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      },
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-firefox',
+            browser_version: '119.0',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-firefox',
+          browser_version: '119.0'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-webkit',
+            browser_version: '17.4',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-webkit',
+          browser_version: '17.4'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-webkit',
+            browser_version: '17.4',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-webkit',
+          browser_version: '17.4'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'LogCreated',
+    logs: [
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:38.294Z',
+        uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+        kind: 'TEST_STEP',
+        message: 'page.goto(https://playwright.dev/)',
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 1544,
+        test_run_uuid: '2bf45605-e381-4695-9466-d95254d46c51'
+      },
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:39.841Z',
+        uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+        kind: 'TEST_STEP',
+        message: 'expect.toHaveTitle',
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 515,
+        test_run_uuid: '2bf45605-e381-4695-9466-d95254d46c51'
+      }
+    ]
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '2bf45605-e381-4695-9466-d95254d46c51',
+      name: 'has title',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          '  await expect(page).toHaveTitle(/Playwright/);\n' +
+          '}'
+      },
+      identifier: 'has title',
+      scope: 'has title',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'passed',
+      duration_in_ms: 4284,
+      started_at: '2026-05-22T06:52:29.754Z',
+      finished_at: '2026-05-22T06:52:34.038Z',
+      failure: null,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js has title' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      },
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-webkit',
+            browser_version: '17.4',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-webkit',
+          browser_version: '17.4'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-webkit',
+            browser_version: '17.4',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-webkit',
+          browser_version: '17.4'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-webkit',
+            browser_version: '17.4',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-webkit',
+          browser_version: '17.4'
+        }
+      }
+    }
+  },
+  {
+    event_type: 'LogCreated',
+    logs: [
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:38.294Z',
+        uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+        kind: 'TEST_STEP',
+        message: 'page.goto(https://playwright.dev/)',
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 1911,
+        test_run_uuid: '67820a94-1b1b-430e-9983-d3394cf56950'
+      },
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:40.207Z',
+        uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+        kind: 'TEST_STEP',
+        message: "locator.getByRole('link', { name: 'Get started' }).click",
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 1145,
+        test_run_uuid: '67820a94-1b1b-430e-9983-d3394cf56950'
+      },
+      {
+        testFrameworkName: 'Playwright',
+        testFrameworkVersion: '1.40.0',
+        testFrameworkState: 'TEST',
+        timestamp: '2026-05-22T06:52:41.355Z',
+        uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+        kind: 'TEST_STEP',
+        message: 'expect.toHaveURL',
+        level: 'passed',
+        fileName: '',
+        fileSize: Long { low: 0, high: 0, unsigned: false },
+        filePath: '',
+        attachmentType: '',
+        duration: 206,
+        test_run_uuid: '67820a94-1b1b-430e-9983-d3394cf56950'
+      }
+    ]
+  },
+  {
+    event_type: 'TestRunFinished',
+    logs: [],
+    test_run: {
+      type: 'test',
+      framework: 'Playwright',
+      uuid: '67820a94-1b1b-430e-9983-d3394cf56950',
+      name: 'get started link',
+      body: {
+        lang: 'javascript',
+        code: 'async ({\n' +
+          '  page\n' +
+          '}) => {\n' +
+          "  await page.goto('https://playwright.dev/');\n" +
+          "  await page.getByRole('link', {\n" +
+          "    name: 'Get started'\n" +
+          '  }).click();\n' +
+          '  await expect(page).toHaveURL(/intro/);\n' +
+          '}'
+      },
+      identifier: 'get started link',
+      scope: 'get started link',
+      scopes: [],
+      custom_metadata: {},
+      meta: { steps: [] },
+      file_name: 'tests\\example.spec.js',
+      vc_filepath: 'tests\\example.spec.js',
+      location: 'tests\\example.spec.js',
+      result: 'passed',
+      duration_in_ms: 5498,
+      started_at: '2026-05-22T06:52:29.818Z',
+      finished_at: '2026-05-22T06:52:35.316Z',
+      failure: null,
+      failure_type: undefined,
+      failure_reason: null,
+      retry_of: null,
+      tags: [],
+      customRerunParam: { rerun_name: ' webkit example.spec.js get started link' },
+      hooks: [],
+      product_map: {
+        observability: true,
+        accessibility: false,
+        percy: false,
+        automate: true,
+        app_automate: false,
+        lts: false
+      },
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-webkit',
+            browser_version: '17.4',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-webkit',
+          browser_version: '17.4'
+        }
+      }
+    }
+  }
+] to 10972:0
+2026-05-22T06:52:42.092Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:52:44.084Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:44.085Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+      integrations: {
+        unknown_grid: {
+          product: 'automate',
+          session_id: undefined,
+          capabilities: {
+            cloudProvider: 'local_grid',
+            browser: 'playwright-chromium',
+            browser_version: '120.0.6099.28',
+            platform: 'Windows',
+            platform_version: '11',
+            product: null,
+            capabilities: {}
+          },
+          platform: 'Windows',
+          platform_version: '11',
+          browser: 'playwright-chromium',
+          browser_version: '120.0.6099.28'
+        }
+      }
+    }
+  }
+] to 10972:0
+2026-05-22T06:52:44.086Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:52:44.112Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:44.145Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:37.886Z',
+      uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+      kind: 'TEST_STEP',
+      message: 'page.goto(https://playwright.dev/)',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 5957,
+      test_run_uuid: '53f1e81b-100a-4d09-83d5-39115604d709'
+    },
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:43.851Z',
+      uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+      kind: 'TEST_STEP',
+      message: 'expect.toHaveTitle',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 133,
+      test_run_uuid: '53f1e81b-100a-4d09-83d5-39115604d709'
+    }
+  ]
+} to 10972:0
+2026-05-22T06:52:44.152Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '53f1e81b-100a-4d09-83d5-39115604d709',
+    name: 'has title',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        '  await expect(page).toHaveTitle(/Playwright/);\n' +
+        '}'
+    },
+    identifier: 'has title',
+    scope: 'has title',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'passed',
+    duration_in_ms: 8001,
+    started_at: '2026-05-22T06:52:29.775Z',
+    finished_at: '2026-05-22T06:52:37.776Z',
+    failure: null,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js has title' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    },
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:44.285Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:44.328Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:44.395Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:37.886Z',
+      uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+      kind: 'TEST_STEP',
+      message: 'page.goto(https://playwright.dev/)',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 5991,
+      test_run_uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758'
+    },
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:43.883Z',
+      uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+      kind: 'TEST_STEP',
+      message: "locator.getByRole('link', { name: 'Get started' }).click",
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 349,
+      test_run_uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758'
+    },
+    {
+      testFrameworkName: 'Playwright',
+      testFrameworkVersion: '1.40.0',
+      testFrameworkState: 'TEST',
+      timestamp: '2026-05-22T06:52:44.234Z',
+      uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+      kind: 'TEST_STEP',
+      message: 'expect.toHaveURL',
+      level: 'passed',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      attachmentType: '',
+      duration: 17,
+      test_run_uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758'
+    }
+  ]
+} to 10972:0
+2026-05-22T06:52:44.412Z CLI info [testhub:request-queue-handler]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Added the event {
+  event_type: 'TestRunFinished',
+  logs: [],
+  test_run: {
+    type: 'test',
+    framework: 'Playwright',
+    uuid: '71bc5d89-2ba0-47c1-b7e3-5c8770e71758',
+    name: 'get started link',
+    body: {
+      lang: 'javascript',
+      code: 'async ({\n' +
+        '  page\n' +
+        '}) => {\n' +
+        "  await page.goto('https://playwright.dev/');\n" +
+        "  await page.getByRole('link', {\n" +
+        "    name: 'Get started'\n" +
+        '  }).click();\n' +
+        '  await expect(page).toHaveURL(/intro/);\n' +
+        '}'
+    },
+    identifier: 'get started link',
+    scope: 'get started link',
+    scopes: [],
+    custom_metadata: {},
+    meta: { steps: [] },
+    file_name: 'tests\\example.spec.js',
+    vc_filepath: 'tests\\example.spec.js',
+    location: 'tests\\example.spec.js',
+    result: 'passed',
+    duration_in_ms: 8234,
+    started_at: '2026-05-22T06:52:29.723Z',
+    finished_at: '2026-05-22T06:52:37.957Z',
+    failure: null,
+    failure_type: undefined,
+    failure_reason: null,
+    retry_of: null,
+    tags: [],
+    customRerunParam: { rerun_name: ' chromium example.spec.js get started link' },
+    hooks: [],
+    product_map: {
+      observability: true,
+      accessibility: false,
+      percy: false,
+      automate: true,
+      app_automate: false,
+      lts: false
+    },
+    integrations: { unknown_grid: [Object] }
+  }
+} to 10972:0
+2026-05-22T06:52:44.892Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2026-05-22T06:52:44.901Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2026-05-22T06:52:45.750Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2026-05-22T06:52:46.612Z CLI info [testhub:module]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  stopBuild: myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja request={"finished_at":"2026-05-22T06:52:44.891Z","finished_metadata":[],"custom_metadata":{}} response={"data":""}
+2026-05-22T06:52:46.613Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2026-05-22T06:52:47.128Z CLI info [TEST REPORTING AND ANALYTICS:module]  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  Visit https://automation.browserstack.com/builds/myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja to view build report, insights, and many more debugging information all at one place!
+2026-05-22T06:52:47.185Z CLI info  [myykwsm53cquarudtjaw8iyv6s5m4psig8fpavja]  [051b440f-f917-46fb-bb63-77047a838708]  [PRODUCTION] Making POST request to https://eds.browserstack.com

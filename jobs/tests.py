@@ -48,8 +48,6 @@ class jobManagerTest(TestCase):
         self.assertEqual(jobs.count(), 2)
         print("test_todays_jobs passed")
 
-
-
 class JobViewTest(TestCase):
 
     def setUp(self):

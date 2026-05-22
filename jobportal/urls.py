@@ -18,6 +18,7 @@ from django.contrib import admin
 from django.urls import path
 from django.contrib.auth import views as auth_views
 from jobs import views
+from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView 
 
 
 urlpatterns = [
@@ -36,7 +37,11 @@ urlpatterns = [
     path('password-reset/done/', auth_views.PasswordResetDoneView.as_view(template_name='jobs/password_reset_done.html'), name='password_reset_done'),
     path('password-reset-confirm/<uidb64>/<token>/', auth_views.PasswordResetConfirmView.as_view(template_name='jobs/password_reset_confirm.html'), name='password_reset_confirm'),
     path('password-reset-complete/', auth_views.PasswordResetCompleteView.as_view(template_name='jobs/password_reset_complete.html'), name='password_reset_complete'),
-
+    
+    #jwt token urls
+    path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),       # get token
+    path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
+  
     # API Views
     path('api/jobs/', views.JobApiView.as_view(), name='job_api'),
     path('api/jobs/<int:pk>/', views.JobDetailApiView.as_view(), name='job_detail_api'),

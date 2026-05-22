@@ -11,6 +11,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 from .serializers import JobSerializer
+from rest_framework.permissions import IsAuthenticated, AllowAny
 
 class JobListView(ListView):
     model = Job
@@ -60,6 +61,10 @@ class RegisterView(View):
         return render(request, 'jobs/register.html', {'form': form})
 
 class JobApiView(APIView):
+    def get_permission(self):
+          if self.request.method == 'GET':
+            return [AllowAny()]        
+          return [IsAuthenticated()]
 
     def get(self, request):
         jobs = Job.objects.all()
@@ -74,6 +79,10 @@ class JobApiView(APIView):
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 class JobDetailApiView(APIView):
+    def get_permissions(self):
+        if self.request.method == 'GET':
+            return [AllowAny()]       
+        return [IsAuthenticated()]    
 
     def get_object(self, pk):
         return get_object_or_404(Job, id=pk)
