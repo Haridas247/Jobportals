@@ -12,6 +12,7 @@ from rest_framework.response import Response
 from rest_framework import status
 from .serializers import JobSerializer
 from rest_framework.permissions import IsAuthenticated, AllowAny
+from .permissions import IsOwnerOrReadOnly
 
 class JobListView(ListView):
     model = Job
@@ -39,6 +40,7 @@ class AddJobView(LoginRequiredMixin, View):
                 company=form.cleaned_data['company'],
                 location=form.cleaned_data['location'],
                 description=form.cleaned_data['description'],
+                created_by=request.user
             )
             send_job_notification.delay(job.title, job.company)
             return redirect('/jobs/')
@@ -79,10 +81,11 @@ class JobApiView(APIView):
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 class JobDetailApiView(APIView):
+
     def get_permissions(self):
         if self.request.method == 'GET':
-            return [AllowAny()]       
-        return [IsAuthenticated()]    
+            return [AllowAny()]
+        return [IsOwnerOrReadOnly()]
 
     def get_object(self, pk):
         return get_object_or_404(Job, id=pk)
@@ -94,6 +97,7 @@ class JobDetailApiView(APIView):
 
     def put(self, request, pk):
         job = self.get_object(pk)
+        self.check_object_permissions(request, job)
         serializer = JobSerializer(job, data=request.data)
         if serializer.is_valid():
             serializer.save()
@@ -102,5 +106,6 @@ class JobDetailApiView(APIView):
 
     def delete(self, request, pk):
         job = self.get_object(pk)
+        self.check_object_permissions(request, job)
         job.delete()
         return Response({'message': 'Job deleted!'}, status=status.HTTP_204_NO_CONTENT)

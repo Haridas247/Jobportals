@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 
 
 class JobQuerySet(models.QuerySet):
@@ -34,7 +35,12 @@ class Job(models.Model):
     location = models.CharField(max_length=200)
     description = models.TextField()
     created_at = models.DateTimeField(auto_now_add=True)
-
+    created_by = models.ForeignKey(
+        User,
+        on_delete=models.CASCADE,
+        null=True,
+        blank=True
+    )
     objects = JobManager()    
 
     def __str__(self):
