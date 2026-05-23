@@ -13,6 +13,8 @@ from rest_framework import status
 from .serializers import JobSerializer
 from rest_framework.permissions import IsAuthenticated, AllowAny
 from .permissions import IsOwnerOrReadOnly
+from django_ratelimit.decorators import ratelimit
+from django.utils.decorators import method_decorator
 
 class JobListView(ListView):
     model = Job
@@ -81,7 +83,10 @@ class JobApiView(APIView):
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 class JobDetailApiView(APIView):
-
+    @method_decorator(ratelimit(key='ip', rate='2/m', block=True))
+    def dispatch(self, *args, **kwargs):
+        return super().dispatch(*args, **kwargs)
+   
     def get_permissions(self):
         if self.request.method == 'GET':
             return [AllowAny()]
